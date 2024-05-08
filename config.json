@@ -1,0 +1,16 @@
+{
+    "current_holdings": 100000,
+    "percentage_international_stock": 23,
+    "percentage_bond": 7,
+
+    "monthly_domestic_stock_contribution": 1180,
+    "monthly_international_stock_contribution": 800,
+    "monthly_bond_contribution": 250,
+
+    "expected_bond_return_percentage": 5,
+    "expected_domestic_stock_return_percentage": 7,
+    "expected_international_stock_return_percentage": 7,
+
+    "simulation_years": 30,
+    "halt_contributions_after_year": 30
+}
