@@ -2,4 +2,4 @@ I created this document to keep track of my savings (I have changed the actual n
 
 Remember to scale the results based on expected changes in CPI data over the given time window (i.e. future inflation).
 
-NOTE: At time of writing, I have both domestic and international equities configured at a 7% expected return. In reality, it is very possible that foreign markets may outperform North American markets for a long period, given current lofty domestic valuations. But impossible to predict the future.
+NOTE: At time of writing, I have both domestic and international equities configured at a 7% expected return. In reality, it is very possible that foreign markets may outperform North American markets for a long period, given current lofty domestic valuations. But impossible to predict the future. Markets can remain irrational longer than you can remain solvent.
